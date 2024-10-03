@@ -47,7 +47,7 @@ By visualizing these trends, this project aims to provide a deeper understanding
 
 ## Run the app
 
-Clone this repo then `cd billboard-hot100-analysis`.
+Clone this repo then `cd Billboard-Hot100-Analysis`.
 
 Assuming you have Python3 installed on a Windows 10 or 11 or on MacOS, run this commands:
 
