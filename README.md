@@ -3,7 +3,7 @@
 This project delves into the dynamics of the Billboard Hot 100 chart from 2019 to 2024, offering a comprehensive analysis of music trends over the past five years. Utilizing web scraping techniques, we collected weekly data on song rankings, artists, and chart performance.
 
 ### Requirement:
-- Python 3.11.0
+- Python 3.12.4
 - Jupyter Notebook 7.1
 - Libraries: pandas, BeautifulSoup, requests, plotly
 
