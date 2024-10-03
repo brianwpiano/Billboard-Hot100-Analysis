@@ -37,6 +37,8 @@ By visualizing these trends, this project aims to provide a deeper understanding
 ### Project Screenshot
 ![Alt text](https://github.com/brianwpiano/billboard-hot100-analysis/blob/main/Screenshot%202024-10-02%20215156.png)
 ![Alt text](https://github.com/brianwpiano/billboard-hot100-analysis/blob/main/Screenshot%202024-10-02%20220651.png)
+![Alt text](https://github.com/brianwpiano/billboard-hot100-analysis/blob/main/Screenshot%202024-10-02%20221119.png)
+![Alt text](https://github.com/brianwpiano/billboard-hot100-analysis/blob/main/Screenshot%202024-10-02%20221149.png)
 ![Alt text](https://github.com/brianwpiano/billboard-hot100-analysis/blob/main/Screenshot%202024-10-02%20220435.png)
 ![Alt text](https://github.com/brianwpiano/billboard-hot100-analysis/blob/main/Screenshot%202024-10-02%20220523.png)
 ![Alt text](https://github.com/brianwpiano/billboard-hot100-analysis/blob/main/Screenshot%202024-10-02%20220548.png)
@@ -45,7 +47,7 @@ By visualizing these trends, this project aims to provide a deeper understanding
 
 ## Run the app
 
-Clone this repo then `cd billboard-hot100-analysis`.
+Clone this repo then `cd Billboard-Hot100-Analysis`.
 
 Assuming you have Python3 installed on a Windows 10 or 11 or on MacOS, run this commands:
 
