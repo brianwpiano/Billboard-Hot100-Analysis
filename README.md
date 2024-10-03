@@ -36,8 +36,12 @@ By visualizing these trends, this project aims to provide a deeper understanding
 
 ### Project Screenshot
 ![Alt text](https://github.com/brianwpiano/billboard-hot100-analysis/blob/main/Screenshot%202024-10-02%20215156.png)
-![Alt text](https://github.com/brianwpiano/billboard-hot100-analysis/blob/main/Screenshot%202024-10-02%20214829.png)
-![Alt text](https://github.com/brianwpiano/billboard-hot100-analysis/blob/main/Screenshot%202024-10-02%20214927.png)
+![Alt text](https://github.com/brianwpiano/billboard-hot100-analysis/blob/main/Screenshot%202024-10-02%20220651.png)
+![Alt text](https://github.com/brianwpiano/billboard-hot100-analysis/blob/main/Screenshot%202024-10-02%20220435.png)
+![Alt text](https://github.com/brianwpiano/billboard-hot100-analysis/blob/main/Screenshot%202024-10-02%20220523.png)
+![Alt text](https://github.com/brianwpiano/billboard-hot100-analysis/blob/main/Screenshot%202024-10-02%20220548.png)
+![Alt text](https://github.com/brianwpiano/billboard-hot100-analysis/blob/main/Screenshot%202024-10-02%20220601.png)
+![Alt text](https://github.com/brianwpiano/billboard-hot100-analysis/blob/main/Screenshot%202024-10-02%20220617.png)
 
 ## Run the app
 
