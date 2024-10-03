@@ -35,10 +35,7 @@ Database Management:
 By visualizing these trends, this project aims to provide a deeper understanding of the changing landscape of popular music, the artists who shape it, and the factors that contribute to a song's success. Whether you're a music enthusiast, data analyst, or industry professional, this analysis offers valuable insights into the world of chart-topping hits.
 
 ### Project Screenshot
-![Alt text](https://github.com/brianwpiano/billboard-hot100-analysis/blob/main/Screenshot%202024-10-02%20215156.png)
 ![Alt text](https://github.com/brianwpiano/billboard-hot100-analysis/blob/main/Screenshot%202024-10-02%20220651.png)
-![Alt text](https://github.com/brianwpiano/billboard-hot100-analysis/blob/main/Screenshot%202024-10-02%20221119.png)
-![Alt text](https://github.com/brianwpiano/billboard-hot100-analysis/blob/main/Screenshot%202024-10-02%20221149.png)
 ![Alt text](https://github.com/brianwpiano/billboard-hot100-analysis/blob/main/Screenshot%202024-10-02%20220435.png)
 ![Alt text](https://github.com/brianwpiano/billboard-hot100-analysis/blob/main/Screenshot%202024-10-02%20220523.png)
 ![Alt text](https://github.com/brianwpiano/billboard-hot100-analysis/blob/main/Screenshot%202024-10-02%20220548.png)
