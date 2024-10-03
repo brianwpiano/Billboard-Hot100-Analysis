@@ -14,7 +14,7 @@ Visualizations:
 - Generates insightful visualizations that reveal trends in music popularity, song longevity, and more.
 
 Database Management:
-- Data is managed efficiently using pandas for seamless data manipulation and retrieval.
+- Data is managed efficiently using pandas for data manipulation and retrieval.
 
 ### 10 Data Visualizations
 - Top 10 Songs by Accumulated Weeks at No. 1: Highlighting the songs that dominated the charts for the longest time.
