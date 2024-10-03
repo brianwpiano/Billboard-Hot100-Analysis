@@ -2,8 +2,21 @@
 
 This project delves into the dynamics of the Billboard Hot 100 chart from 2019 to 2024, offering a comprehensive analysis of music trends over the past five years. Utilizing web scraping techniques, we collected weekly data on song rankings, artists, and chart performance.
 
+
 ### Features
-Ten insightful visualizations that explore various facets of the Billboard charts, including:
+Data Scraping:
+- Automatically collects weekly Billboard Hot 100 data using web scraping techniques.
+
+Data Analysis:
+- Analyzes song rankings, accumulated weeks at No. 1, and artist performance over time.
+
+Visualizations:
+- Generates insightful visualizations that reveal trends in music popularity, song longevity, and more.
+
+Database Management:
+- Data is managed efficiently using pandas for seamless data manipulation and retrieval.
+
+### 10 Data Visualizations
 - Top 10 Songs by Accumulated Weeks at No. 1: Highlighting the songs that dominated the charts for the longest time.
 - Monthly New Songs in the Top 10: Analyzing trends in song entries over the months.
 - Top 5 Singers with the Most Top 10 Songs: Identifying the most successful artists in terms of chart presence.
@@ -25,6 +38,7 @@ By visualizing these trends, this project aims to provide a deeper understanding
 ### Requirement:
 - Python 3.11.0
 - Jupyter Notebook 7.1
+- Libraries: pandas, BeautifulSoup, requests, plotly
   
 ## Run the app
 
