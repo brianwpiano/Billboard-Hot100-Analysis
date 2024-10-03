@@ -16,3 +16,22 @@ Ten insightful visualizations that explore various facets of the Billboard chart
 - Monthly New Songs in Hot 100: Tracking the influx of new music into the overall chart.
 
 By visualizing these trends, this project aims to provide a deeper understanding of the changing landscape of popular music, the artists who shape it, and the factors that contribute to a song's success. Whether you're a music enthusiast, data analyst, or industry professional, this analysis offers valuable insights into the world of chart-topping hits.
+
+### Project Screenshot
+![Alt text](https://github.com/brianwpiano/Library-Management-System/blob/main/1.png)
+
+### Requirement:
+- Python 3.11.0
+- Jupyter Notebook 7.1
+  
+## Run the app
+
+Clone this repo then `cd billboard-hot100-analysis`.
+
+Assuming you have Python3 installed on a Windows 10 or 11 or on MacOS, run this commands:
+
+``` bash
+Billboard_Hot_100_Chart_Overview.ipynb
+```
+
+---
