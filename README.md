@@ -52,7 +52,7 @@ Clone this repo then `cd Billboard-Hot100-Analysis`.
 Assuming you have Python3 installed on a Windows 10 or 11 or on MacOS, run this commands:
 
 ``` bash
-Billboard_Hot_100_Chart_Overview.ipynb
+Billboard_Hot_100_Chart_Overview_Selenium.ipynb
 ```
 
 ---
