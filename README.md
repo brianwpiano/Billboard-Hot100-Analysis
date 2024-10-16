@@ -5,7 +5,7 @@ This project delves into the dynamics of the Billboard Hot 100 chart from 2022 t
 ### Requirements:
 - Python 3.12.4
 - Jupyter Notebook 7.1
-- Libraries: pandas, BeautifulSoup, requests, plotly
+- Libraries: pandas, BeautifulSoup, Selenium, requests, plotly
 
 ### Features
 Data Scraping:
