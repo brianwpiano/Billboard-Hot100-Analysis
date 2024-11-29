@@ -9,7 +9,7 @@ This project explores the dynamics of the Billboard Hot 100 chart from 2022 to 2
 
 ### Features
 Data Scraping:
-- Automatically collects weekly Billboard Hot 100 data using web scraping techniques.
+- The project uses two separate approaches: BeautifulSoup and Selenium, to efficiently collect weekly Billboard Hot 100 data.
 
 Data Analysis:
 - Analyzes song rankings, accumulated weeks at No. 1, and artist performance over time.
@@ -50,6 +50,11 @@ By visualizing these trends, this project aims to provide a deeper understanding
 Clone this repo then `cd Billboard-Hot100-Analysis`.
 
 Assuming you have Python3 installed on a Windows 10 or 11 or on MacOS, run this commands:
+
+``` bash
+Billboard_Hot_100_Chart_Overview_Selenium.ipynb
+```
+OR
 
 ``` bash
 Billboard_Hot_100_Chart_Overview_Selenium.ipynb
