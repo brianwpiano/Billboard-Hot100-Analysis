@@ -57,7 +57,7 @@ Billboard_Hot_100_Chart_Overview_Selenium.ipynb
 OR
 
 ``` bash
-Billboard_Hot_100_Chart_Overview_Selenium.ipynb
+Billboard_Hot_100_Chart_Overview_BeautifulSoup.ipynb
 ```
 
 ---
