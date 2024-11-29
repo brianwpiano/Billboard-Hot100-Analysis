@@ -1,6 +1,6 @@
 # Trends and Insights from the Billboard Hot 100
 
-This project delves into the dynamics of the Billboard Hot 100 chart from 2022 to 2024, offering a comprehensive analysis of music trends over the past three years. Utilizing web scraping techniques, we collected weekly data on song rankings, artists, and chart performance.
+This project explores the dynamics of the Billboard Hot 100 chart from 2022 to 2024, providing a comprehensive analysis of music trends over the past three years. Using a combination of web scraping tools—BeautifulSoup for static page parsing and Selenium for dynamic content extraction—this project collects weekly data on song rankings, artists, and chart performance.
 
 ### Requirements:
 - Python 3.12.4
